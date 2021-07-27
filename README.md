@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aztek6699. Real name: Zain Haque
+- 👋 Hi, I’m @aztek6699.
 - 👀 I’m interested in android development and spring boot
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on leanring more about the crazy world of backend development
