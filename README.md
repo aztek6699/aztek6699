@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zain Ul Haque.
 - 👀 I’m interested in android development and spring boot
 - 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on leanring more about the crazy world of backend development
+- 💞️ I’m looking to collaborate on learning more about the crazy world of backend development
 - 📫 How to reach me: email: zainhaque9@gmail.com
 
 <!---
